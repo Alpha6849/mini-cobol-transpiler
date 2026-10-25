@@ -3,3 +3,8 @@ __pycache__/
 *.pyc
 runnable.py
 data/
+
+*.bin
+*.csv
+benchmark/*.bin
+benchmark/*.csv
