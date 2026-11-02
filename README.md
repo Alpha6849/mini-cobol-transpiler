@@ -1,4 +1,4 @@
-# Mini COBOL: Production-Grade COBOL-to-Python Transpiler
+# Mini COBOL: COBOL-to-Python Transpiler
 
 Mini COBOL is a production-grade, modular COBOL-to-Python transpiler adhering strictly to classic compiler design architecture:
 **Lexer &rarr; Parser &rarr; Symbol Table &rarr; AST &rarr; Code Generator**.
